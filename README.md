@@ -1,2 +1,2 @@
-# onix-mod-panel
-just something to hunt bugs in onix faster and possibly other things involving the client soon
+# zero-panel
+for now a testing gui but will become a ghost client compatible with java and bedrock editions of minecraft
